@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="D:/Sync/1.School/Concordia.COMP5461/2020 Eric/Programming 3/test1.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/pa3_40070424/createjsc.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=pa3_40070424/src&lt;{DiningPhilosophers.java[DiningPhilosophers" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal>
+                <package handleIdentifier="=pa3_40070424/src&lt;common"/>
+            </packagesToSeal>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/pa3_40070424/.classpath"/>
+        <file path="/pa3_40070424/.project"/>
+        <javaElement handleIdentifier="=pa3_40070424/src"/>
+    </selectedElements>
+</jardesc>
