@@ -1,7 +1,7 @@
 # COMP 5461-Operating Systems
 
 
-Summary
+## Summary
 
 Knowledge of fundamentals of operating system functionalities, design and 
 implementation. Multiprogramming: processes and threads, context switching, queuing models 
